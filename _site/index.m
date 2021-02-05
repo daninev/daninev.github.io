@@ -1,0 +1,230 @@
+<!DOCTYPE HTML>
+<html lang="en" >
+    <head><meta charset="UTF-8">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"><title>site usando jekyll</title><meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."><meta name="generator" content="Jekyll (using style of GitBook)"><link rel="stylesheet" href="/gitbook/style.css">
+<link rel="stylesheet" href="/gitbook/gitbook-plugin-fontsettings/website.css">
+<!-- <link rel="stylesheet" href="../gitbook/gitbook-plugin-search/search.css"> -->
+
+<link rel="stylesheet" href="/gitbook/rouge-highlight-colorful.css">
+
+<meta name="HandheldFriendly" content="true"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/gitbook/images/apple-touch-icon-precomposed-152.png">
+<link rel="shortcut icon" href="/gitbook/images/favicon.ico" type="image/x-icon">
+
+        
+            <link rel="next" href="/jekyll/update/2021/02/04/welcome-to-jekyll.html" />
+        
+    </head>
+    <body>
+        <div class="book"><div class="book-summary">
+    <!-- <div id="book-search-input" role="search">
+        <input type="text" placeholder="Type to search" />
+    </div> -->
+    <nav role="navigation">
+        <ul class="summary">
+            
+            <li class="chapter" data-level="1.1" data-path="">
+            
+                <a href="">
+                    site usando jekyll
+                </a>
+            </li>
+
+            <li class="divider"></li>
+
+            
+
+            
+                
+                <li class="chapter" data-level="1.1" data-path="/jekyll/update/2021/02/04/welcome-to-jekyll.html">
+                
+                    <a href="/jekyll/update/2021/02/04/welcome-to-jekyll.html">
+                        Welcome to Jekyll!
+                    </a>
+                </li>
+            
+
+            <li class="divider"></li>
+
+            <li>
+                <a href="https://github.com/sighingnow/jekyll-gitbook/fork" target="blank" class="gitbook-link">
+                    Fork it Now!
+                </a>
+            </li>
+        </ul>
+    </nav>
+</div><div class="book-body"><div class="body-inner">
+    <div class="book-header" role="navigation">
+        <!-- Title -->
+        <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i>
+            
+                <a href="." >site usando jekyll</a>
+            
+        </h1>
+    </div>
+    <div class="page-wrapper" tabindex="-1" role="main">
+        <div class="page-inner">
+            <div id="book-search-results">
+                <div class="search-noresults">
+                    <section class="normal markdown-section">
+
+                        
+                            <h1 id="">site usando jekyll</h1>
+                        
+
+                        
+                    </section>
+                </div>
+
+                 <!--<div class="search-results">
+    <div class="has-results">
+        <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+        <ul class="search-results-list"></ul>
+    </div>
+    <div class="no-results">
+        <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+    </div>
+</div>-->
+            </div>
+        </div>
+    </div>
+</div>
+
+                    <a href="/jekyll/update/2021/02/04/welcome-to-jekyll.html" class="navigation navigation-next navigation-unique" aria-label="Next page: Welcome to Jekyll!">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+            </div>
+
+            <!--<div class="search-results">
+    <div class="has-results">
+        <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+        <ul class="search-results-list"></ul>
+    </div>
+    <div class="no-results">
+        <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+    </div>
+</div>-->
+
+            <script>
+            var gitbook = gitbook || [];
+            gitbook.push(function() {
+                gitbook.page.hasChanged({
+    "page": {
+        "title": "Introduction",
+        "level": "1.1",
+        "depth": 1,
+        
+
+        
+        "next": {
+            "title": "Welcome to Jekyll!",
+            "level": "1.2",
+            "depth": 1,
+            "path": "_posts/2021-02-04-welcome-to-jekyll.markdown",
+            "ref": "_posts/2021-02-04-welcome-to-jekyll.markdown",
+            "articles": []
+        },
+        
+        "dir": "ltr"
+    },    "config": {
+        "plugins": ["fontsettings", "highlight", "livereload", "lunr", "search", "sharing", "theme-default", "livereload"],
+        "styles": {
+            "ebook": "styles/ebook.css",
+            "epub": "styles/epub.css",
+            "mobi": "styles/mobi.css",
+            "pdf": "styles/pdf.css",
+            "print": "styles/print.css",
+            "website": "styles/website.css"
+        },
+        "pluginsConfig": {
+            "fontsettings": {
+                "family": "sans",
+                "size": 2,
+                "theme": "white"
+            },
+            "highlight": {},
+            "livereload": {},
+            "lunr": {
+                "ignoreSpecialCharacters": false,
+                "maxIndexSize": 1000000
+            },
+            "search": {},
+            "sharing": {
+                "all": ["facebook", "google", "twitter", "weibo", "instapaper"],
+                "facebook": true,
+                "google": false,
+                "instapaper": false,
+                "twitter": true,
+                "vk": false,
+                "weibo": false
+            },
+            "theme-default": {
+                "showLevel": false,
+                "styles": {
+                    "ebook": "styles/ebook.css",
+                    "epub": "styles/epub.css",
+                    "mobi": "styles/mobi.css",
+                    "pdf": "styles/pdf.css",
+                    "print": "styles/print.css",
+                    "website": "styles/website.css"
+                }
+            }
+        },
+        "theme": "default",
+        "author": "Tao He",
+        "pdf": {
+            "pageNumbers": true,
+            "fontSize": 12,
+            "fontFamily": "Arial",
+            "paperSize": "a4",
+            "chapterMark": "pagebreak",
+            "pageBreaksBefore": "/",
+            "margin": {
+                "right": 62,
+                "left": 62,
+                "top": 56,
+                "bottom": 56
+            }
+        },
+        "structure": {
+            "langs": "LANGS.md",
+            "readme": "README.md",
+        },
+        "variables": {},
+        "title": "site usando jekyll",
+        "language": "en",
+        "gitbook": "*"
+    },
+    "file": {
+        "path": "index.m",
+        "mtime": "",
+        "type": "markdown"
+    },
+    "gitbook": {
+        "version": "",
+        "time": "2021-02-04 23:24:52 -0300"
+    },
+    "basePath": "",
+    "book": {
+        "language": ""
+    }
+});
+            });
+            </script>
+        </div><script src="/gitbook/gitbook.js"></script>
+<script src="/gitbook/theme.js"></script>
+
+<script src="/gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+<script src="/gitbook/gitbook-plugin-sharing/buttons.js"></script>
+
+<!-- <script src="../gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+<script src="../gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+<script src="../gitbook/gitbook-plugin-search/search-engine.js"></script>
+<script src="../gitbook/gitbook-plugin-search/search.js"></script> --></body>
+</html>
